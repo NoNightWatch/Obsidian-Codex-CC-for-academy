@@ -21,7 +21,7 @@
   <a href="#workflow">探索归档地图</a> ·
   <a href="#guild-code">阅读公会守则</a> ·
   <a href="#faq">常见问题</a> ·
-  <a href="#english">English</a>
+  <a href="README.en.md">English</a>
 </p>
 
 <br>
@@ -250,16 +250,7 @@
 
 <a id="english"></a>
 
-<details>
-<summary><strong>English · A single-file guide for your academic wiki</strong></summary>
-
-Give [`llm-wiki-starter.md`](llm-wiki-starter.md) to a file-capable agent in your Obsidian vault. It defines full-source reading, bilingual metadata, five duplicate checks, version comparisons, supplement tracking, evidence boundaries, method indexing, and completion checks.
-
-Ask the agent to read it at the start of each session. Agree on the initialization and batch plan, then place papers in `raw/inbox/`. All operating rules and templates stay in that one file.
-
-The repository is named **Obsidian-Codex-CC-for-academy**. **Paper Quest** is its pixel fantasy presentation theme.
-
-</details>
+[**English · Read the complete guide**](README.en.md) · 完整英文版包含使用步骤、六阶段归档流程、论文模板、公会守则与常见问题。
 
 <details>
 <summary><strong>Credits · 来源与视觉</strong></summary>
