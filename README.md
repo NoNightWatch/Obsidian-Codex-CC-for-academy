@@ -266,6 +266,4 @@ The repository is named **Obsidian-Codex-CC-for-academy**. **Paper Quest** is it
 
 知识库组织方式参考 [Andrej Karpathy 的 LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)，本项目补充面向学术论文的归档细则。
 
-像素学者与图书馆插画使用 AI 生成，视觉方向受《克鲁赛德战记》启发；标题标牌、按钮和装饰为本项目设计。像素文字使用 [TakWolf 的 Fusion Pixel Font](https://github.com/TakWolf/fusion-pixel-font) 排版并转换为图形轮廓，字体采用 SIL Open Font License 1.1。
-
 </details>
